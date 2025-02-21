@@ -18,7 +18,6 @@ public class Main {
         Especialidad objEspe = new Especialidad(4,"Didier",true, LocalDate.now());
         System.out.println(objEspe.getFechaCrea());
         System.out.println();
-
         objEspe.Imprmir();
 
         Alumno objAlumno = new Alumno();
