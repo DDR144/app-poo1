@@ -22,7 +22,7 @@ public class Main {
 
         Alumno objAlumno = new Alumno();
         objAlumno.setId(1);
-        objAlumno.setDni(9292981818);
+        objAlumno.setDni("954816");
         objAlumno.setNombre("Didier");
         objAlumno.setApellido("Huerta");
         objAlumno.setEdad(26);

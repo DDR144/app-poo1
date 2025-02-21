@@ -46,4 +46,13 @@ public class Persona {
     public void setEdad(Integer edad) {
         this.edad = edad;
     }
+
+    public boolean registrarAsistencia(
+            String codIdentificador,
+            String fechaAsistencia,
+            String horaAsistencia,
+            Boolean valorAsistencia
+    ){
+        return true;
+    }
 }
